@@ -1,3 +1,6 @@
+
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -5,4 +8,7 @@
 .bg{
     color: blue;
     
+}
+.bg{
+    color: black;
 }
